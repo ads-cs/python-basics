@@ -1,6 +1,6 @@
 # Jogo Jokenpô em Python
 
-Projeto simples para praticar lógica de programação e estruturas condicionais.
+Projeto criado como exercício de lógica em Python para simular o jogo Jo-Ken-Pô.
 
 ## Funcionalidades
 - Modo 1 jogador (vs computador)
